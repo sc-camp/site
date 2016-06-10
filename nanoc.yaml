@@ -88,3 +88,14 @@ checks:
     # E.g.:
     #   exclude_files: ['blog/page']
     exclude_files: []
+
+
+
+deploy:
+  default:
+    kind: rsync
+    dst:  "gforge.uni.lu:/home/groups/sccamp/htdocs/2016"
+    options: [ '--verbose', '-e', 'ssh -l sccamp_guest', '-crlOzr' ] 
+    #options: [ '--verbose', '-e', 'ssh -l sccamp_guest', '-crlOzr', '--delete-after'] 
+
+

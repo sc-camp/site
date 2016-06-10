@@ -8,7 +8,7 @@ title: Overview
 
 |    Application Opening   |     Application Deadline    |   Adminission Notification  |   Registration Deadline  |
 |:------------------------:|:---------------------------:|:---------------------------:|:------------------------:|
-| Friday 15th  of May 2015 | Wednesday 10th of June 2015 | Wednesday 17th of June 2015 | Friday 19th of June 2015 |
+| Friday 15th  of May 2016 | Wednesday 10th of June 2015 | Wednesday 17th of June 2015 | Friday 19th of June 2015 |
 
 
 ## School Mission
@@ -38,7 +38,7 @@ The summer school focus on the following topics:
 
 ## Organization
 
-SC-Camp 2015 features 5 days of scientific sessions and 1 leisure day with an organized activity (for example, hiking or rafting). During the lectures several parallel programming practical sessions will be held.
+SC-Camp 2016 features 5 days of scientific sessions and 1 leisure day with an organized activity (for example, hiking or rafting). During the lectures several parallel programming practical sessions will be held.
 
 We welcome applications of undergraduate (preferable in Senior year) or master students from all areas of engineering and science with strong interest upon High Performance and Distributed Computing. Due to the advanced content of lectures some basic notions of Parallel and Distributed Computing along with programming skills are desirable. All courses and lectures will be held in English, thus a good knowledge of English -both oral and written- is mandatory. The scientific and steering committee will evaluate the application forms based on the applicant's scientific background and their motivation letter. This year, as the former year, we expect to accept 20 - 40 students.
 
