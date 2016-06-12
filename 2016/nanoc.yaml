@@ -95,7 +95,7 @@ deploy:
   default:
     kind: rsync
     dst:  "gforge.uni.lu:/home/groups/sccamp/htdocs/2016"
-    options: [ '--verbose', '-e', 'ssh -l sccamp_guest', '-crlOzr' ] 
-    #options: [ '--verbose', '-e', 'ssh -l sccamp_guest', '-crlOzr', '--delete-after'] 
+    #options: [ '--verbose', '-e', 'ssh -l sccamp_guest', '-crlOzr' ] 
+    options: [ '--verbose', '-e', 'ssh -l sccamp_guest', '-crlOzr', '--delete-after'] 
 
 
