@@ -6,35 +6,35 @@ title: Overview
 
 
 
-|    Application Opening   |     Application Deadline    |   Adminission Notification  |   Registration Deadline  |
+|    Application Opening   |     Application Deadline    |   Admission Notification    |   Registration Deadline  |
 |:------------------------:|:---------------------------:|:---------------------------:|:------------------------:|
-| Friday 15th  of May 2016 | Wednesday 10th of June 2015 | Wednesday 17th of June 2015 | Friday 19th of June 2015 |
+| Friday 15th  of May 2016 | *to be announced*           | *to be announced*           | *to be announced*        |
 
 
 ## School Mission
 
 Taking advantage of the Internet and high speed networks available today, one can exploit high performance computing infrastructures from anywhere, even located in the middle of the nature.
 
-SC-Camp is an initiative of researchers inspired by this idea that offers undergraduate and master students state-of-the-art lectures and programming practical sessions upon High Performance and Distributed Computing topics. SC-Camp is a non-profit event, addressed to all students including those that lack of financial backup. Usually, students applying in due time receive a partial or total grant, including meals, accomadation, lectures access, and programming challenges. This year the event will be hosted by ABACUS-CINVESTAV EDOMEX near Marquesa National Park, State of Mexico, between Mexico City and Toluca.
+SC-Camp is an initiative of researchers inspired by this idea that offers undergraduate and master students state-of-the-art lectures and programming practical sessions upon High Performance and Distributed Computing topics. SC-Camp is a non-profit event, addressed to all students including those that lack of financial backup. Usually, students applying in due time receive a partial or total grant, including meals, accomadation, lectures access, and programming challenges.
 
 
 ## Content
 
 The summer school focus on the following topics:
 
-- Parallel Programming
-- Multiprocessors Programming
-- Distributed Systems
-- Cluster Computing
-- Grid Computing
-- Cloud Computing
-- Volunteer Computing
-- Hybrid and GPU Programming
-- Resource/Job Management & Scheduling
-- Virtualisation
-- Fault tolerance
-- Green Computing
-- Performance Evaluation
+* Parallel Programming
+* Multiprocessors Programming
+* Distributed Systems
+  * Cluster Computing
+  * Grid Computing
+  * Cloud Computing
+  * Volunteer Computing
+  * Hybrid and GPU Programming
+* Resource/Job Management & Scheduling
+* Virtualisation
+* Fault tolerance
+* Green Computing
+* Performance Evaluation
 
 ## Organization
 
@@ -45,7 +45,7 @@ We welcome applications of undergraduate (preferable in Senior year) or master s
 
 ## Registration fee
 
-COST: $5,000.00 M.N. The registration fee includes accommodation, food and access to all scientific lectures.
+COST: *to be announced*. The registration fee includes accommodation, food and access to all scientific lectures.
 
 
 
