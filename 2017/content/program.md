@@ -4,19 +4,21 @@ title: Program
 
 ## Program
 
+*This is a tentative program. It will be updated soon.*
+
 ### Overview
 
-![Program](images/programa_v1.png)
+![Program](images/programa_2017.png)
 
 
-### Sunday 16
+### Day 1
 
 - Registration and Accomodation
 - Welcome and Local Presentation
 - HPC Introduction
 
 
-### Monday 17
+### Day 2
 
 - Compilers: Optimizing and Debugging Code
 - Practical Session: Compilers and Debuggers
@@ -24,7 +26,7 @@ title: Program
 - Practical Session: Analyse Parallel Applications Performance with R
 
 
-### Tuesday 18
+### Day 3
 
 - Introduction to Distributed Memory Models
 - Distributed Computing Through Message Passing MPI
@@ -32,7 +34,7 @@ title: Program
 - OpenMP Essencials
 - Practical Session : MPI+OpenMP
 
-### Wednesday 19
+### Day 4
 
 - Introduction to GPU Computing
 - XeonPhi to Increase Speed of Parallel Code
@@ -40,12 +42,12 @@ title: Program
 - Practical Session: CUDA
 - Practical Session: CUDA
 
-### Thursday 20
+### Day 5
 
 - Workload Management with SLURM
 - Users and Administration with SLURM
 
-### Friday 21
+### Day 6
 
 - HPC @ Pocket Computing
 - HPC and Bioinformatics

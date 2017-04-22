@@ -45,7 +45,7 @@ We welcome applications of undergraduate (preferable in Senior year) or master s
 
 ## Registration fee
 
-COST: *to be announced*. The registration fee includes accommodation, food and access to all scientific lectures.
+COST: *to be announced*. The registration fee includes lunches and access to all scientific lectures and practical sessions.
 
 
 
