@@ -16,14 +16,11 @@
 
     <div class="header">
       <div class="header_title">
-          <span class="Style16b">SuperComputing Summer Camp</span><br />
-         <span class="Style12">Location: ??? <br /></span>
-          <span class="Style14b">??? to ???, 2017</span>
+        <span class="Style18b">SuperComputing Summer Camp</span><br />
+        <span class="Style14b">Location: ??? <br /></span>
+        <span class="Style14b">??? to ???, 2017</span>
       </div>
-      <div class="header_logo" />
-
-      <div style="clear:both" />
-
+      <div class="header_logo"></div>
       <div class="menu">
         <a href="index.html">Overview</a>
         <a href="program.html">Program</a>
@@ -32,41 +29,47 @@
         <a href="information.html">Information</a>
         <a href="committee.html">Committee</a>
       </div>
-
+      <div style="clear:both"></div>
     </div>
+
 
     <div class="content">
 
+      <div class="main">
+        <%= yield %>
+      </div>
 
-    <div class="main">
-      <%= yield %>
+      <div class="rightcolumn">
+      <div class="sponsors">
+        <h3>Sponsors</h3>
+        <ul>
+          <li>SNT</li>
+          <li>FNR</li>
+          <li>GRID</li>
+        </ul>
+      </div>
+
+      <div class="archives">
+    
+        <h3>Archives</h3>
+        <a href="../2010/index.html">SC-Camp 2010</a><br/>
+        <a href="../2011/index.html">SC-Camp 2011</a><br/>
+        <a href="../2012/index.html">SC-Camp 2012</a><br/>
+        <a href="../2013/index.html">SC-Camp 2013</a><br/>
+        <a href="../2014/index.html">SC-Camp 2014</a><br/>
+        <a href="../2015/index.html">SC-Camp 2015</a><br/>
+        <a href="../2016/index.html">SC-Camp 2016</a><br/>
+      </div>
+      </div>
+
+      <div style="clear:both"></div>
+
     </div>
 
-    <div class="sponsors">
-      <h3>Sponsors</h3>
-      <ul>
-        <li>SNT</li>
-        <li>FNR</li>
-        <li>GRID</li>
-      </ul>
-    </div>
-
-    <div class="archives">
- 	<h3>Archives</h3>
-	<a href="../2010/index.html">SC-Camp 2010</a><br/>
-	<a href="../2011/index.html">SC-Camp 2011</a><br/>
-	<a href="../2012/index.html">SC-Camp 2012</a><br/>
-	<a href="../2013/index.html">SC-Camp 2013</a><br/>
-	<a href="../2014/index.html">SC-Camp 2014</a><br/>
-	<a href="../2015/index.html">SC-Camp 2015</a><br/>
-	<a href="../2016/index.html">SC-Camp 2016</a><br/>
-    </div>
-
-    <div style="clear:both" />
 
     <div class="footer">
       <p style="border-top:thin dotted #999;"></p>
-      <span>Copyright &copy; 2017, <strong>SC Camp</strong> | for more information </span><a href="mailto:contact@sc-camp.org">contact@sc-camp.org</a>
+      <span>Copyright © 2017, <strong>SC Camp</strong> | for more information </span><a href="mailto:contact@sc-camp.org">contact@sc-camp.org</a>
     </div>
   </div>
   </body>
