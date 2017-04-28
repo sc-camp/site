@@ -40,7 +40,7 @@ The summer school focus on the following topics:
 
 ## Organization
 
-SC-Camp 2017 features 5 days of scientific sessions and 1/2 leisure day with an organized activity (e.g., hiking). During the lectures several pratical programming practical sessions will be held.
+SC-Camp 2017 features 5 days of scientific sessions and 1/2 leisure day with an organized activity (e.g., hiking). During the lectures several programming practical sessions will be held.
 
 We welcome applications of undergraduate (preferable in Senior year) or master students from all areas of Engineering and Computational Sciences with strong interest upon High Performance and Distributed Computing. Due to the advanced content of lectures some basic notions of Parallel and Distributed Computing along with programming skills are desirable. All courses and lectures will be held in English, thus a good knowledge of English -both oral and written- is mandatory. The scientific and steering committee will evaluate the application forms based on the applicant's scientific background and their motivation letter. This year, as the former year, we expect to accept 20 - 40 students.
 
