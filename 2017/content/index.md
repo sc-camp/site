@@ -16,7 +16,7 @@ title: Overview
 
 ## School Mission
 
-SC-Camp is a summer school and non-profit event about Super Computing and Distributed Systems. It proposes a series of courses around the thematic of High Performance Computing with an important focus on practical sessions (more than half of the time). It targets Master and PhD students in the field of Computer Sciences, Engineering and any other fields that could benefit from HPC (Physics & Material Sciences, Biology/Bio-Bioinformatics, Finance, etc.). 
+SC-Camp is a summer school and non-profit event about Super Computing and Distributed Systems. It proposes a series of courses around the thematic of High Performance Computing with an important focus on practical sessions (more than half of the time). It targets Master and PhD students in the field of Computer Sciences, Engineering and any other fields that could benefit from HPC (Physics & Material Sciences, Biology/Bioinformatics, Finance, etc.). 
 
 
 Taking advantage of the Internet and high speed networks available today, one can exploit high performance computing infrastructures from anywhere, even located in the middle of the nature. SC-Camp is an initiative of researchers inspired by this idea that offers undergraduate and master students state-of-the-art lectures and programming practical sessions upon High Performance and Distributed Computing topics. It is an itinerant school, bringing the HPC knowledge to a different place every year.
